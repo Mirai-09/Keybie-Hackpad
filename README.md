@@ -13,7 +13,7 @@ My macropad includes materials that are given by Hack Club!
 
 # PCB  
 Here is my PCB! Made in KiCad (took me forever to decide what to include ngl T-T)
-<img width="798" height="672" alt="Keybie board" src="https://github.com/user-attachments/assets/9cc69ac7-59cf-4445-8c30-257f49ee01c3" />    
+<img width="900" height="805" alt="image" src="https://github.com/user-attachments/assets/d60f46d3-313d-4e27-b1bf-755f987345cf" />  
 3D!  
 <img width="1039" height="743" alt="image" src="https://github.com/user-attachments/assets/7db758c1-90a7-4e4d-843b-1e9d4ca0c71f" />  
 Schematic:  
@@ -26,7 +26,8 @@ Bottom:
 Top:  
 <img width="1069" height="582" alt="image" src="https://github.com/user-attachments/assets/15faff60-5188-44aa-a248-23ac92c1a999" />  
 All components together:
-<img width="1133" height="789" alt="image" src="https://github.com/user-attachments/assets/114e1f7c-1d77-442f-8570-1fbbc11ff20a" />  
+<img width="1025" height="742" alt="image" src="https://github.com/user-attachments/assets/d9aa82d7-511f-49c4-ac58-24528a45c3b8" />
+
 
 Learned a lot while working on this :)
 
