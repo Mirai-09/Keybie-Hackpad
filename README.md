@@ -22,11 +22,15 @@ Schematic:
 # CAD  
 Here is my case! Made in Fusion 360 (Also took me forever to design it T-T)  
 Bottom:  
-<img width="1238" height="765" alt="image" src="https://github.com/user-attachments/assets/27308adc-08a1-4da5-9a87-5391d73de988" />  
+<img width="1100" height="604" alt="image" src="https://github.com/user-attachments/assets/b6e69266-cbdb-413f-9f32-5583fe2a2a7c" />
 Top:  
-<img width="1069" height="582" alt="image" src="https://github.com/user-attachments/assets/15faff60-5188-44aa-a248-23ac92c1a999" />  
+<img width="1062" height="678" alt="image" src="https://github.com/user-attachments/assets/d7d88329-97b6-4927-b234-1d169165dae6" />
 All components together:
-<img width="1025" height="742" alt="image" src="https://github.com/user-attachments/assets/d9aa82d7-511f-49c4-ac58-24528a45c3b8" />
+<img width="1041" height="689" alt="image" src="https://github.com/user-attachments/assets/0fab37b6-6095-4f9f-ab0b-b9343a442d2c" />
+
+# Assembled Keybie
+This is how my Keybie looks in real life! (Also took me forever yes T-T)
+<img width="1100" height="604" alt="image" src="https://github.com/user-attachments/assets/b941c191-d911-4088-876f-abd59428e920" />
 
 
 Learned a lot while working on this :)
