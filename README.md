@@ -1,6 +1,16 @@
 # Keybie - Hackpad  
 
 Keybie is a 12-key macropad with a rotary encoder and an OLED display! It uses KMK firmare and is my first-ever hardware project with a PCB. :)<br>
+You can customise Keybie to any Keyboard shortcuts and have the shortcut at your hand!<br><br>
+Firmware of Keybie comes with following functions:
+ - media control (prev track, pause track, next track)
+ - Volumn control (volumn up and down with scroll knob, mute with a key)
+ - Up, Down, Right and Left keys
+ - Brightness Control (increase, decrease)
+ - F11 (full screen on chrome)
+ - Screenshot  
+
+I made Keybie for Blueprint, a YSWS of Hack Club! I wanted to make this because macropads seems cool and I wanted to try building a hardware project myself! :)  
 
 # BOM  
 
@@ -30,7 +40,13 @@ All components together:
 
 # Assembled Keybie
 This is how my Keybie looks in real life! (Also took me forever yes T-T)
-<img width="1100" height="604" alt="image" src="https://github.com/user-attachments/assets/b941c191-d911-4088-876f-abd59428e920" />
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/409a3b83-636e-4a35-89c4-016d14ee486e" />
+<img width="4032" height="3024" alt="image" src="https://github.com/user-attachments/assets/8db9287a-bb9b-4c22-82d3-f879cd44053d" />
+<img width="4032" height="3024" alt="image" src="https://github.com/user-attachments/assets/8c266970-cb7b-4311-8ec7-0548c0914f63" />
+<img width="4032" height="3024" alt="image" src="https://github.com/user-attachments/assets/81ee65e8-0265-4caf-b091-c664743f1091" />
+<img width="4032" height="3024" alt="image" src="https://github.com/user-attachments/assets/7df8ecf9-49c1-44d3-9905-55cdca25e31c" />
+
+
 
 
 Learned a lot while working on this :)
