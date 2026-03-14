@@ -1,10 +1,10 @@
 # Keybie - Hackpad  
 
-Keybie is a 12-key macropad with a rotary encoder and an OLED display! It uses KMK firmare and is my first-ever hardware project with a PCB. :)<br>
+Keybie is a 12-key macropad with a rotary encoder and an OLED display! It uses KMK firmware and is my first-ever hardware project with a PCB. :)<br>
 You can customise Keybie to any Keyboard shortcuts and have the shortcut at your hand!<br><br>
 Firmware of Keybie comes with following functions:
  - media control (prev track, pause track, next track)
- - Volumn control (volumn up and down with scroll knob, mute with a key)
+ - Volume control (volume up and down with scroll knob, mute with a key)
  - Up, Down, Right and Left keys
  - Brightness Control (increase, decrease)
  - F11 (full screen on chrome)
